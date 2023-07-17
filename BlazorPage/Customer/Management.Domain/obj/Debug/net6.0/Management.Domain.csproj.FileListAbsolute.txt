@@ -1,0 +1,17 @@
+D:\BlazorPage\Customer\Management.Domain\bin\Debug\net6.0\Management.Domain.deps.json
+D:\BlazorPage\Customer\Management.Domain\bin\Debug\net6.0\Management.Domain.dll
+D:\BlazorPage\Customer\Management.Domain\bin\Debug\net6.0\Management.Domain.pdb
+D:\BlazorPage\Customer\Management.Domain\bin\Debug\net6.0\Customer.Domain.Shared.dll
+D:\BlazorPage\Customer\Management.Domain\bin\Debug\net6.0\Customer.Domain.Shared.pdb
+D:\BlazorPage\Customer\Management.Domain\obj\Debug\net6.0\Management.Domain.csproj.AssemblyReference.cache
+D:\BlazorPage\Customer\Management.Domain\obj\Debug\net6.0\Management.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\BlazorPage\Customer\Management.Domain\obj\Debug\net6.0\Management.Domain.AssemblyInfoInputs.cache
+D:\BlazorPage\Customer\Management.Domain\obj\Debug\net6.0\Management.Domain.AssemblyInfo.cs
+D:\BlazorPage\Customer\Management.Domain\obj\Debug\net6.0\Management.Domain.csproj.CoreCompileInputs.cache
+D:\BlazorPage\Customer\Management.Domain\obj\Debug\net6.0\Management.Domain.csproj.CopyComplete
+D:\BlazorPage\Customer\Management.Domain\obj\Debug\net6.0\Management.Domain.dll
+D:\BlazorPage\Customer\Management.Domain\obj\Debug\net6.0\refint\Management.Domain.dll
+D:\BlazorPage\Customer\Management.Domain\obj\Debug\net6.0\Management.Domain.pdb
+D:\BlazorPage\Customer\Management.Domain\obj\Debug\net6.0\ref\Management.Domain.dll
+D:\BlazorPage\Customer\Management.Domain\bin\Debug\net6.0\Management.Domain.runtimeconfig.json
+D:\BlazorPage\Customer\Management.Domain\obj\Debug\net6.0\Management.Domain.genruntimeconfig.cache

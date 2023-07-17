@@ -1,0 +1,14 @@
+D:\BlazorPage\Customer\Customer\Shared\bin\Debug\net6.0\Customer.Shared.deps.json
+D:\BlazorPage\Customer\Customer\Shared\bin\Debug\net6.0\Customer.Shared.dll
+D:\BlazorPage\Customer\Customer\Shared\bin\Debug\net6.0\Customer.Shared.pdb
+D:\BlazorPage\Customer\Customer\Shared\obj\Debug\net6.0\Customer.Shared.csproj.AssemblyReference.cache
+D:\BlazorPage\Customer\Customer\Shared\obj\Debug\net6.0\Customer.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\BlazorPage\Customer\Customer\Shared\obj\Debug\net6.0\Customer.Shared.AssemblyInfoInputs.cache
+D:\BlazorPage\Customer\Customer\Shared\obj\Debug\net6.0\Customer.Shared.AssemblyInfo.cs
+D:\BlazorPage\Customer\Customer\Shared\obj\Debug\net6.0\Customer.Shared.csproj.CoreCompileInputs.cache
+D:\BlazorPage\Customer\Customer\Shared\obj\Debug\net6.0\Customer.Shared.dll
+D:\BlazorPage\Customer\Customer\Shared\obj\Debug\net6.0\refint\Customer.Shared.dll
+D:\BlazorPage\Customer\Customer\Shared\obj\Debug\net6.0\Customer.Shared.pdb
+D:\BlazorPage\Customer\Customer\Shared\obj\Debug\net6.0\ref\Customer.Shared.dll
+D:\BlazorPage\Customer\Customer\Shared\bin\Debug\net6.0\Customer.Shared.runtimeconfig.json
+D:\BlazorPage\Customer\Customer\Shared\obj\Debug\net6.0\Customer.Shared.genruntimeconfig.cache

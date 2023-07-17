@@ -1,0 +1,17 @@
+D:\BlazorPage\Customer\Management.Application.Contracts\bin\Debug\net6.0\Management.Application.Contracts.deps.json
+D:\BlazorPage\Customer\Management.Application.Contracts\bin\Debug\net6.0\Management.Application.Contracts.dll
+D:\BlazorPage\Customer\Management.Application.Contracts\bin\Debug\net6.0\Management.Application.Contracts.pdb
+D:\BlazorPage\Customer\Management.Application.Contracts\bin\Debug\net6.0\Management.Domain.Shared.dll
+D:\BlazorPage\Customer\Management.Application.Contracts\bin\Debug\net6.0\Management.Domain.Shared.pdb
+D:\BlazorPage\Customer\Management.Application.Contracts\obj\Debug\net6.0\Management.Application.Contracts.csproj.AssemblyReference.cache
+D:\BlazorPage\Customer\Management.Application.Contracts\obj\Debug\net6.0\Management.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\BlazorPage\Customer\Management.Application.Contracts\obj\Debug\net6.0\Management.Application.Contracts.AssemblyInfoInputs.cache
+D:\BlazorPage\Customer\Management.Application.Contracts\obj\Debug\net6.0\Management.Application.Contracts.AssemblyInfo.cs
+D:\BlazorPage\Customer\Management.Application.Contracts\obj\Debug\net6.0\Management.Application.Contracts.csproj.CoreCompileInputs.cache
+D:\BlazorPage\Customer\Management.Application.Contracts\obj\Debug\net6.0\Management.Application.Contracts.csproj.CopyComplete
+D:\BlazorPage\Customer\Management.Application.Contracts\obj\Debug\net6.0\Management.Application.Contracts.dll
+D:\BlazorPage\Customer\Management.Application.Contracts\obj\Debug\net6.0\refint\Management.Application.Contracts.dll
+D:\BlazorPage\Customer\Management.Application.Contracts\obj\Debug\net6.0\Management.Application.Contracts.pdb
+D:\BlazorPage\Customer\Management.Application.Contracts\obj\Debug\net6.0\ref\Management.Application.Contracts.dll
+D:\BlazorPage\Customer\Management.Application.Contracts\bin\Debug\net6.0\Management.Application.Contracts.runtimeconfig.json
+D:\BlazorPage\Customer\Management.Application.Contracts\obj\Debug\net6.0\Management.Application.Contracts.genruntimeconfig.cache

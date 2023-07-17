@@ -1,0 +1,17 @@
+D:\BlazorPage\Customer\Customer.Application.Contracts\bin\Debug\net6.0\Customer.Application.Contracts.deps.json
+D:\BlazorPage\Customer\Customer.Application.Contracts\bin\Debug\net6.0\Customer.Application.Contracts.dll
+D:\BlazorPage\Customer\Customer.Application.Contracts\bin\Debug\net6.0\Customer.Application.Contracts.pdb
+D:\BlazorPage\Customer\Customer.Application.Contracts\bin\Debug\net6.0\Customer.Domain.Shared.dll
+D:\BlazorPage\Customer\Customer.Application.Contracts\bin\Debug\net6.0\Customer.Domain.Shared.pdb
+D:\BlazorPage\Customer\Customer.Application.Contracts\obj\Debug\net6.0\Customer.Application.Contracts.csproj.AssemblyReference.cache
+D:\BlazorPage\Customer\Customer.Application.Contracts\obj\Debug\net6.0\Customer.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\BlazorPage\Customer\Customer.Application.Contracts\obj\Debug\net6.0\Customer.Application.Contracts.AssemblyInfoInputs.cache
+D:\BlazorPage\Customer\Customer.Application.Contracts\obj\Debug\net6.0\Customer.Application.Contracts.AssemblyInfo.cs
+D:\BlazorPage\Customer\Customer.Application.Contracts\obj\Debug\net6.0\Customer.Application.Contracts.csproj.CoreCompileInputs.cache
+D:\BlazorPage\Customer\Customer.Application.Contracts\obj\Debug\net6.0\Customer.Application.Contracts.csproj.CopyComplete
+D:\BlazorPage\Customer\Customer.Application.Contracts\obj\Debug\net6.0\Customer.Application.Contracts.dll
+D:\BlazorPage\Customer\Customer.Application.Contracts\obj\Debug\net6.0\refint\Customer.Application.Contracts.dll
+D:\BlazorPage\Customer\Customer.Application.Contracts\obj\Debug\net6.0\Customer.Application.Contracts.pdb
+D:\BlazorPage\Customer\Customer.Application.Contracts\obj\Debug\net6.0\ref\Customer.Application.Contracts.dll
+D:\BlazorPage\Customer\Customer.Application.Contracts\bin\Debug\net6.0\Customer.Application.Contracts.runtimeconfig.json
+D:\BlazorPage\Customer\Customer.Application.Contracts\obj\Debug\net6.0\Customer.Application.Contracts.genruntimeconfig.cache
