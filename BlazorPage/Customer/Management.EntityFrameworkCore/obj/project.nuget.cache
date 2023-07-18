@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WFjQ2B49D+d5A1y42PyyBJo5s3GfNMXTRGhAg3U3d74/ujnoh/VJ1MrVCaP0B7nV5JD+399MoqY+FAWbzJrO6w==",
+  "dgSpecHash": "phGG0wKA6QovUm/+K3yU7NsH5SUf3xC4tM40wiPklsA1Bo+/5ENdh0B9eQjLxKU5syzmz8T5LSJYZDt5gQqa3Q==",
   "success": true,
-  "projectFilePath": "D:\\BlazorPage\\Customer\\Management.EntityFrameworkCore\\Management.EntityFrameworkCore.csproj",
+  "projectFilePath": "D:\\SharpSix\\BlazorPage\\Customer\\Management.EntityFrameworkCore\\Management.EntityFrameworkCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tieptv\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\tieptv\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

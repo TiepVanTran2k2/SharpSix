@@ -2100,11 +2100,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\BlazorPage\\Customer\\Management.Application\\Management.Application.csproj",
+      "projectUniqueName": "D:\\SharpSix\\BlazorPage\\Customer\\Management.Application\\Management.Application.csproj",
       "projectName": "Management.Application",
-      "projectPath": "D:\\BlazorPage\\Customer\\Management.Application\\Management.Application.csproj",
+      "projectPath": "D:\\SharpSix\\BlazorPage\\Customer\\Management.Application\\Management.Application.csproj",
       "packagesPath": "C:\\Users\\tieptv\\.nuget\\packages\\",
-      "outputPath": "D:\\BlazorPage\\Customer\\Management.Application\\obj\\",
+      "outputPath": "D:\\SharpSix\\BlazorPage\\Customer\\Management.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2126,11 +2126,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\BlazorPage\\Customer\\Management.Application.Contracts\\Management.Application.Contracts.csproj": {
-              "projectPath": "D:\\BlazorPage\\Customer\\Management.Application.Contracts\\Management.Application.Contracts.csproj"
+            "D:\\SharpSix\\BlazorPage\\Customer\\Management.Application.Contracts\\Management.Application.Contracts.csproj": {
+              "projectPath": "D:\\SharpSix\\BlazorPage\\Customer\\Management.Application.Contracts\\Management.Application.Contracts.csproj"
             },
-            "D:\\BlazorPage\\Customer\\Management.Domain\\Management.Domain.csproj": {
-              "projectPath": "D:\\BlazorPage\\Customer\\Management.Domain\\Management.Domain.csproj"
+            "D:\\SharpSix\\BlazorPage\\Customer\\Management.Domain\\Management.Domain.csproj": {
+              "projectPath": "D:\\SharpSix\\BlazorPage\\Customer\\Management.Domain\\Management.Domain.csproj"
             }
           }
         }

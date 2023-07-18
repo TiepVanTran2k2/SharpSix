@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kC0roVk98QOtUNheSwv9Zgo3Fu63YCsBYsQreWfXILHk5qPXqcg736b9B3+oepzdVsKaCtX9NVIIaapUNrQydg==",
+  "dgSpecHash": "KCRuh3b5gnqGiDW9eOQ1WlgpdUGDNBHyyWVVDSvIYxuvBFC1ceq8FsRtgLtCngDDdXPbDhLC64sU7sD4XmkJ2w==",
   "success": true,
-  "projectFilePath": "D:\\BlazorPage\\Customer\\Management.Application.Contracts\\Management.Application.Contracts.csproj",
+  "projectFilePath": "D:\\SharpSix\\BlazorPage\\Customer\\Management.Application.Contracts\\Management.Application.Contracts.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tieptv\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\tieptv\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

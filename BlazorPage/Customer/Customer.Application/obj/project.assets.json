@@ -2081,11 +2081,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\BlazorPage\\Customer\\Customer.Application\\Customer.Application.csproj",
+      "projectUniqueName": "D:\\SharpSix\\BlazorPage\\Customer\\Customer.Application\\Customer.Application.csproj",
       "projectName": "Customer.Application",
-      "projectPath": "D:\\BlazorPage\\Customer\\Customer.Application\\Customer.Application.csproj",
+      "projectPath": "D:\\SharpSix\\BlazorPage\\Customer\\Customer.Application\\Customer.Application.csproj",
       "packagesPath": "C:\\Users\\tieptv\\.nuget\\packages\\",
-      "outputPath": "D:\\BlazorPage\\Customer\\Customer.Application\\obj\\",
+      "outputPath": "D:\\SharpSix\\BlazorPage\\Customer\\Customer.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2107,11 +2107,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\BlazorPage\\Customer\\Customer.Application.Contracts\\Customer.Application.Contracts.csproj": {
-              "projectPath": "D:\\BlazorPage\\Customer\\Customer.Application.Contracts\\Customer.Application.Contracts.csproj"
+            "D:\\SharpSix\\BlazorPage\\Customer\\Customer.Application.Contracts\\Customer.Application.Contracts.csproj": {
+              "projectPath": "D:\\SharpSix\\BlazorPage\\Customer\\Customer.Application.Contracts\\Customer.Application.Contracts.csproj"
             },
-            "D:\\BlazorPage\\Customer\\Customer.Domain\\Customer.Domain.csproj": {
-              "projectPath": "D:\\BlazorPage\\Customer\\Customer.Domain\\Customer.Domain.csproj"
+            "D:\\SharpSix\\BlazorPage\\Customer\\Customer.Domain\\Customer.Domain.csproj": {
+              "projectPath": "D:\\SharpSix\\BlazorPage\\Customer\\Customer.Domain\\Customer.Domain.csproj"
             }
           }
         }

@@ -2060,11 +2060,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\BlazorPage\\Customer\\Management.EntityFrameworkCore\\Management.EntityFrameworkCore.csproj",
+      "projectUniqueName": "D:\\SharpSix\\BlazorPage\\Customer\\Management.EntityFrameworkCore\\Management.EntityFrameworkCore.csproj",
       "projectName": "Management.EntityFrameworkCore",
-      "projectPath": "D:\\BlazorPage\\Customer\\Management.EntityFrameworkCore\\Management.EntityFrameworkCore.csproj",
+      "projectPath": "D:\\SharpSix\\BlazorPage\\Customer\\Management.EntityFrameworkCore\\Management.EntityFrameworkCore.csproj",
       "packagesPath": "C:\\Users\\tieptv\\.nuget\\packages\\",
-      "outputPath": "D:\\BlazorPage\\Customer\\Management.EntityFrameworkCore\\obj\\",
+      "outputPath": "D:\\SharpSix\\BlazorPage\\Customer\\Management.EntityFrameworkCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2086,8 +2086,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\BlazorPage\\Customer\\Management.Domain\\Management.Domain.csproj": {
-              "projectPath": "D:\\BlazorPage\\Customer\\Management.Domain\\Management.Domain.csproj"
+            "D:\\SharpSix\\BlazorPage\\Customer\\Management.Domain\\Management.Domain.csproj": {
+              "projectPath": "D:\\SharpSix\\BlazorPage\\Customer\\Management.Domain\\Management.Domain.csproj"
             }
           }
         }

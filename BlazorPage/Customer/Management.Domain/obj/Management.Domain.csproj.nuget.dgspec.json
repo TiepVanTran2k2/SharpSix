@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\BlazorPage\\Customer\\Management.Domain\\Management.Domain.csproj": {}
+    "D:\\SharpSix\\BlazorPage\\Customer\\Management.Domain\\Management.Domain.csproj": {}
   },
   "projects": {
-    "D:\\BlazorPage\\Customer\\Customer\\Shared\\Customer.Domain.Shared.csproj": {
+    "D:\\SharpSix\\BlazorPage\\Customer\\Customer\\Shared\\Customer.Domain.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\BlazorPage\\Customer\\Customer\\Shared\\Customer.Domain.Shared.csproj",
+        "projectUniqueName": "D:\\SharpSix\\BlazorPage\\Customer\\Customer\\Shared\\Customer.Domain.Shared.csproj",
         "projectName": "Customer.Domain.Shared",
-        "projectPath": "D:\\BlazorPage\\Customer\\Customer\\Shared\\Customer.Domain.Shared.csproj",
+        "projectPath": "D:\\SharpSix\\BlazorPage\\Customer\\Customer\\Shared\\Customer.Domain.Shared.csproj",
         "packagesPath": "C:\\Users\\tieptv\\.nuget\\packages\\",
-        "outputPath": "D:\\BlazorPage\\Customer\\Customer\\Shared\\obj\\",
+        "outputPath": "D:\\SharpSix\\BlazorPage\\Customer\\Customer\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -86,14 +86,14 @@
         }
       }
     },
-    "D:\\BlazorPage\\Customer\\Management.Domain\\Management.Domain.csproj": {
+    "D:\\SharpSix\\BlazorPage\\Customer\\Management.Domain\\Management.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\BlazorPage\\Customer\\Management.Domain\\Management.Domain.csproj",
+        "projectUniqueName": "D:\\SharpSix\\BlazorPage\\Customer\\Management.Domain\\Management.Domain.csproj",
         "projectName": "Management.Domain",
-        "projectPath": "D:\\BlazorPage\\Customer\\Management.Domain\\Management.Domain.csproj",
+        "projectPath": "D:\\SharpSix\\BlazorPage\\Customer\\Management.Domain\\Management.Domain.csproj",
         "packagesPath": "C:\\Users\\tieptv\\.nuget\\packages\\",
-        "outputPath": "D:\\BlazorPage\\Customer\\Management.Domain\\obj\\",
+        "outputPath": "D:\\SharpSix\\BlazorPage\\Customer\\Management.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -115,8 +115,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\BlazorPage\\Customer\\Customer\\Shared\\Customer.Domain.Shared.csproj": {
-                "projectPath": "D:\\BlazorPage\\Customer\\Customer\\Shared\\Customer.Domain.Shared.csproj"
+              "D:\\SharpSix\\BlazorPage\\Customer\\Customer\\Shared\\Customer.Domain.Shared.csproj": {
+                "projectPath": "D:\\SharpSix\\BlazorPage\\Customer\\Customer\\Shared\\Customer.Domain.Shared.csproj"
               }
             }
           }

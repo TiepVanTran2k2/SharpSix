@@ -2938,11 +2938,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\BlazorPage\\Customer\\Management\\Server\\Management.Server.csproj",
+      "projectUniqueName": "D:\\SharpSix\\BlazorPage\\Customer\\Management\\Server\\Management.Server.csproj",
       "projectName": "Management.Server",
-      "projectPath": "D:\\BlazorPage\\Customer\\Management\\Server\\Management.Server.csproj",
+      "projectPath": "D:\\SharpSix\\BlazorPage\\Customer\\Management\\Server\\Management.Server.csproj",
       "packagesPath": "C:\\Users\\tieptv\\.nuget\\packages\\",
-      "outputPath": "D:\\BlazorPage\\Customer\\Management\\Server\\obj\\",
+      "outputPath": "D:\\SharpSix\\BlazorPage\\Customer\\Management\\Server\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2965,17 +2965,17 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\BlazorPage\\Customer\\Management.Application.Contracts\\Management.Application.Contracts.csproj": {
-              "projectPath": "D:\\BlazorPage\\Customer\\Management.Application.Contracts\\Management.Application.Contracts.csproj"
+            "D:\\SharpSix\\BlazorPage\\Customer\\Management.Application.Contracts\\Management.Application.Contracts.csproj": {
+              "projectPath": "D:\\SharpSix\\BlazorPage\\Customer\\Management.Application.Contracts\\Management.Application.Contracts.csproj"
             },
-            "D:\\BlazorPage\\Customer\\Management.Application\\Management.Application.csproj": {
-              "projectPath": "D:\\BlazorPage\\Customer\\Management.Application\\Management.Application.csproj"
+            "D:\\SharpSix\\BlazorPage\\Customer\\Management.Application\\Management.Application.csproj": {
+              "projectPath": "D:\\SharpSix\\BlazorPage\\Customer\\Management.Application\\Management.Application.csproj"
             },
-            "D:\\BlazorPage\\Customer\\Management.EntityFrameworkCore\\Management.EntityFrameworkCore.csproj": {
-              "projectPath": "D:\\BlazorPage\\Customer\\Management.EntityFrameworkCore\\Management.EntityFrameworkCore.csproj"
+            "D:\\SharpSix\\BlazorPage\\Customer\\Management.EntityFrameworkCore\\Management.EntityFrameworkCore.csproj": {
+              "projectPath": "D:\\SharpSix\\BlazorPage\\Customer\\Management.EntityFrameworkCore\\Management.EntityFrameworkCore.csproj"
             },
-            "D:\\BlazorPage\\Customer\\Management\\Client\\Management.Client.csproj": {
-              "projectPath": "D:\\BlazorPage\\Customer\\Management\\Client\\Management.Client.csproj"
+            "D:\\SharpSix\\BlazorPage\\Customer\\Management\\Client\\Management.Client.csproj": {
+              "projectPath": "D:\\SharpSix\\BlazorPage\\Customer\\Management\\Client\\Management.Client.csproj"
             }
           }
         }

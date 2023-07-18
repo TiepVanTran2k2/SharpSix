@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yyzaOQWztGfdJ7VjqGvlt8Ecl6kc5g0OU6IZyvyVlQSIso2VU5PRUAuTHRUHcb2MUGVc74M7TYlcFLKjaquazg==",
+  "dgSpecHash": "KaCsJKEBp34YOaBEIs1ui18XE0/1EFSbQN1V21qjkuguJoEGHhHy5124fr/5LesCZmEdqIOxZN66kVWxNyrmbg==",
   "success": true,
-  "projectFilePath": "D:\\BlazorPage\\Customer\\Management\\Shared\\Management.Domain.Shared.csproj",
+  "projectFilePath": "D:\\SharpSix\\BlazorPage\\Customer\\Management\\Shared\\Management.Domain.Shared.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tieptv\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\tieptv\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

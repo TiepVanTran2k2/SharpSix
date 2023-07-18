@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "j6ukBfPFX8mS0YYqt57EMhIrmfTPO6/rIVFUi7NiUMj1PQ3NmGIgd0NaAc+itFXiUbs81TUSHMsh4Mg7QXHJLg==",
+  "dgSpecHash": "GUMVIRLVFWHpd0KIMdjpHSjlSudiRtbJGL7QSjvu3mNIBqypDDYWTADJ0Zru3Xm74ydbb3+fqBi4RBeJ4oWR/w==",
   "success": true,
-  "projectFilePath": "D:\\BlazorPage\\Customer\\Customer\\Server\\Customer.Server.csproj",
+  "projectFilePath": "D:\\SharpSix\\BlazorPage\\Customer\\Customer\\Server\\Customer.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tieptv\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\tieptv\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.20\\microsoft.aspnetcore.authorization.6.0.20.nupkg.sha512",
