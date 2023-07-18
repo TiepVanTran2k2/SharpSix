@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SharpSix\\BlazorPage\\Customer\\Customer\\Client\\Customer.Client.csproj": {}
+    "C:\\SharpSix\\BlazorPage\\Customer\\Customer\\Client\\Customer.Client.csproj": {}
   },
   "projects": {
-    "D:\\SharpSix\\BlazorPage\\Customer\\Customer\\Client\\Customer.Client.csproj": {
+    "C:\\SharpSix\\BlazorPage\\Customer\\Customer\\Client\\Customer.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SharpSix\\BlazorPage\\Customer\\Customer\\Client\\Customer.Client.csproj",
+        "projectUniqueName": "C:\\SharpSix\\BlazorPage\\Customer\\Customer\\Client\\Customer.Client.csproj",
         "projectName": "Customer.Client",
-        "projectPath": "D:\\SharpSix\\BlazorPage\\Customer\\Customer\\Client\\Customer.Client.csproj",
+        "projectPath": "C:\\SharpSix\\BlazorPage\\Customer\\Customer\\Client\\Customer.Client.csproj",
         "packagesPath": "C:\\Users\\tieptv\\.nuget\\packages\\",
-        "outputPath": "D:\\SharpSix\\BlazorPage\\Customer\\Customer\\Client\\obj\\",
+        "outputPath": "C:\\SharpSix\\BlazorPage\\Customer\\Customer\\Client\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\SharpSix\\BlazorPage\\Customer\\Customer\\Shared\\Customer.Domain.Shared.csproj": {
-                "projectPath": "D:\\SharpSix\\BlazorPage\\Customer\\Customer\\Shared\\Customer.Domain.Shared.csproj"
+              "C:\\SharpSix\\BlazorPage\\Customer\\Customer\\Shared\\Customer.Domain.Shared.csproj": {
+                "projectPath": "C:\\SharpSix\\BlazorPage\\Customer\\Customer\\Shared\\Customer.Domain.Shared.csproj"
               }
             }
           }
@@ -110,14 +110,14 @@
         }
       }
     },
-    "D:\\SharpSix\\BlazorPage\\Customer\\Customer\\Shared\\Customer.Domain.Shared.csproj": {
+    "C:\\SharpSix\\BlazorPage\\Customer\\Customer\\Shared\\Customer.Domain.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SharpSix\\BlazorPage\\Customer\\Customer\\Shared\\Customer.Domain.Shared.csproj",
+        "projectUniqueName": "C:\\SharpSix\\BlazorPage\\Customer\\Customer\\Shared\\Customer.Domain.Shared.csproj",
         "projectName": "Customer.Domain.Shared",
-        "projectPath": "D:\\SharpSix\\BlazorPage\\Customer\\Customer\\Shared\\Customer.Domain.Shared.csproj",
+        "projectPath": "C:\\SharpSix\\BlazorPage\\Customer\\Customer\\Shared\\Customer.Domain.Shared.csproj",
         "packagesPath": "C:\\Users\\tieptv\\.nuget\\packages\\",
-        "outputPath": "D:\\SharpSix\\BlazorPage\\Customer\\Customer\\Shared\\obj\\",
+        "outputPath": "C:\\SharpSix\\BlazorPage\\Customer\\Customer\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -151,6 +151,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[6.0.20, )"

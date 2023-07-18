@@ -12,3 +12,17 @@ D:\BlazorPage\Customer\Management\Shared\obj\Debug\net6.0\refint\Management.Doma
 D:\BlazorPage\Customer\Management\Shared\obj\Debug\net6.0\Management.Domain.Shared.pdb
 D:\BlazorPage\Customer\Management\Shared\obj\Debug\net6.0\Management.Domain.Shared.genruntimeconfig.cache
 D:\BlazorPage\Customer\Management\Shared\obj\Debug\net6.0\ref\Management.Domain.Shared.dll
+C:\SharpSix\BlazorPage\Customer\Management\Shared\bin\Debug\net6.0\Management.Domain.Shared.deps.json
+C:\SharpSix\BlazorPage\Customer\Management\Shared\bin\Debug\net6.0\Management.Domain.Shared.runtimeconfig.json
+C:\SharpSix\BlazorPage\Customer\Management\Shared\bin\Debug\net6.0\Management.Domain.Shared.dll
+C:\SharpSix\BlazorPage\Customer\Management\Shared\bin\Debug\net6.0\Management.Domain.Shared.pdb
+C:\SharpSix\BlazorPage\Customer\Management\Shared\obj\Debug\net6.0\Management.Domain.Shared.csproj.AssemblyReference.cache
+C:\SharpSix\BlazorPage\Customer\Management\Shared\obj\Debug\net6.0\Management.Domain.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\SharpSix\BlazorPage\Customer\Management\Shared\obj\Debug\net6.0\Management.Domain.Shared.AssemblyInfoInputs.cache
+C:\SharpSix\BlazorPage\Customer\Management\Shared\obj\Debug\net6.0\Management.Domain.Shared.AssemblyInfo.cs
+C:\SharpSix\BlazorPage\Customer\Management\Shared\obj\Debug\net6.0\Management.Domain.Shared.csproj.CoreCompileInputs.cache
+C:\SharpSix\BlazorPage\Customer\Management\Shared\obj\Debug\net6.0\Management.Domain.Shared.dll
+C:\SharpSix\BlazorPage\Customer\Management\Shared\obj\Debug\net6.0\refint\Management.Domain.Shared.dll
+C:\SharpSix\BlazorPage\Customer\Management\Shared\obj\Debug\net6.0\Management.Domain.Shared.pdb
+C:\SharpSix\BlazorPage\Customer\Management\Shared\obj\Debug\net6.0\Management.Domain.Shared.genruntimeconfig.cache
+C:\SharpSix\BlazorPage\Customer\Management\Shared\obj\Debug\net6.0\ref\Management.Domain.Shared.dll

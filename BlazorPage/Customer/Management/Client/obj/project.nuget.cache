@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "lCfginzLJZ8EavK5GhhcKK/iXsEWUcCpzi+tGXxLGfRjBr9QJmL1NmhHzq3G/qv/Vyyc9PiP0Tfyo3q9YBK/VQ==",
+  "dgSpecHash": "b3M6z/Rn6HPGScYiwTZDRunRo9PYLoyt2ZBlaPyTzxv9pfBEqBIluNorxolM771/jeevTx5PnUOZPbq7xUZPkA==",
   "success": true,
-  "projectFilePath": "D:\\SharpSix\\BlazorPage\\Customer\\Management\\Client\\Management.Client.csproj",
+  "projectFilePath": "C:\\SharpSix\\BlazorPage\\Customer\\Management\\Client\\Management.Client.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\tieptv\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\tieptv\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\tieptv\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\tieptv\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.20\\microsoft.aspnetcore.authorization.6.0.20.nupkg.sha512",
     "C:\\Users\\tieptv\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.20\\microsoft.aspnetcore.components.6.0.20.nupkg.sha512",
@@ -13,7 +15,7 @@
     "C:\\Users\\tieptv\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\6.0.20\\microsoft.aspnetcore.components.webassembly.6.0.20.nupkg.sha512",
     "C:\\Users\\tieptv\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.devserver\\6.0.20\\microsoft.aspnetcore.components.webassembly.devserver.6.0.20.nupkg.sha512",
     "C:\\Users\\tieptv\\.nuget\\packages\\microsoft.aspnetcore.metadata\\6.0.20\\microsoft.aspnetcore.metadata.6.0.20.nupkg.sha512",
-    "C:\\Users\\tieptv\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\tieptv\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\tieptv\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "C:\\Users\\tieptv\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
     "C:\\Users\\tieptv\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.20\\microsoft.entityframeworkcore.6.0.20.nupkg.sha512",

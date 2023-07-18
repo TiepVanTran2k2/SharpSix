@@ -5,7 +5,7 @@
       "url": "css\/app.css"
     },
     {
-      "hash": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=",
+      "hash": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7\/p4nS6D\/0=",
       "url": "css\/bootstrap\/bootstrap.min.css"
     },
     {
@@ -921,7 +921,7 @@
       "url": "_framework\/System.Private.CoreLib.dll"
     },
     {
-      "hash": "sha256-iXtnf0CK+zdIWjR0cpE38tWChIpNC6sO+aSQAW+aBQU=",
+      "hash": "sha256-fM4BKZq1De3DnrduSIldxZUgu0ILBnTk7ijdc830yLk=",
       "url": "_framework\/dotnet.6.0.20.nmg0l4wy4o.js"
     },
     {
@@ -971,7 +971,15 @@
     {
       "hash": "sha256-sdDcXoipX+injsm7m6OFkHrrwwYi3dEXLzp194Ulxcc=",
       "url": "_framework\/blazor.boot.json"
+    },
+    {
+      "hash": "sha256-IPLECjhzAo5JapVuuAB\/ZT5OGwiSRZEKxtY7EMNCH38=",
+      "url": "_framework\/AutoMapper.dll"
+    },
+    {
+      "hash": "sha256-RFmP6C+\/wYl1ISrVBekC+K2zrBwqPDUwvi8dVw+tiUY=",
+      "url": "_framework\/AutoMapper.Extensions.Microsoft.DependencyInjection.dll"
     }
   ],
-  "version": "VI5jaOBL"
+  "version": "1JXB9wz\/"
 };

@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "phGG0wKA6QovUm/+K3yU7NsH5SUf3xC4tM40wiPklsA1Bo+/5ENdh0B9eQjLxKU5syzmz8T5LSJYZDt5gQqa3Q==",
+  "dgSpecHash": "R2bODjc2WlBlbutgPEeJzuKaInTuNOhkwefxjBhKyAQnhKxBFkJoACTEm0+Vh/N2lIWRnuM0Ayu3FwERQvoE0A==",
   "success": true,
-  "projectFilePath": "D:\\SharpSix\\BlazorPage\\Customer\\Management.EntityFrameworkCore\\Management.EntityFrameworkCore.csproj",
+  "projectFilePath": "C:\\SharpSix\\BlazorPage\\Customer\\Management.EntityFrameworkCore\\Management.EntityFrameworkCore.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\tieptv\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\tieptv\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\tieptv\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
-    "C:\\Users\\tieptv\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\tieptv\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\tieptv\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "C:\\Users\\tieptv\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
     "C:\\Users\\tieptv\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.20\\microsoft.entityframeworkcore.6.0.20.nupkg.sha512",

@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Management.Domain.Entity.Permission
 {
-    public interface IPermissionRepository : IRepositoryBase
+    public interface IPermissionRepository : IRepositoryBase<Permission>
     {
     }
 }
