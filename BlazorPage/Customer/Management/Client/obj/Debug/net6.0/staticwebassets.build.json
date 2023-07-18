@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "uIm2qID0oVaU8yRsXQ+uF1RGhMnm7JHYOW2mn/waT6A=",
+  "Hash": "ZFY25Jac5MoDy+mCxB/wyPSIGTaVQFS0EW6p7uts77o=",
   "Source": "Management.Client",
   "BasePath": "/",
   "Mode": "Root",
@@ -219,6 +219,40 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\tieptv\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.20\\runtimes\\browser-wasm\\native\\icudt_no_CJK.dat"
+    },
+    {
+      "Identity": "C:\\SharpSix\\BlazorPage\\Customer\\Management\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Management.Application.Contracts.dll",
+      "SourceId": "Management.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\SharpSix\\BlazorPage\\Customer\\Management\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Management.Application.Contracts.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\SharpSix\\BlazorPage\\Customer\\Management.Application.Contracts\\bin\\Debug\\net6.0\\Management.Application.Contracts.dll"
+    },
+    {
+      "Identity": "C:\\SharpSix\\BlazorPage\\Customer\\Management\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Management.Application.Contracts.pdb",
+      "SourceId": "Management.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\SharpSix\\BlazorPage\\Customer\\Management\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Management.Application.Contracts.pdb",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "symbol",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\SharpSix\\BlazorPage\\Customer\\Management.Application.Contracts\\bin\\Debug\\net6.0\\Management.Application.Contracts.pdb"
     },
     {
       "Identity": "C:\\SharpSix\\BlazorPage\\Customer\\Management\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Management.Client.dll",
@@ -5168,6 +5202,23 @@
       "OriginalItemSpec": "C:\\SharpSix\\BlazorPage\\Customer\\Management\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Text.Encodings.Web.dll"
     },
     {
+      "Identity": "C:\\SharpSix\\BlazorPage\\Customer\\Management\\Client\\obj\\Debug\\net6.0\\build-gz\\dfnvX0rL.gz",
+      "SourceId": "Management.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\SharpSix\\BlazorPage\\Customer\\Management\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Management.Application.Contracts.pdb.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\SharpSix\\BlazorPage\\Customer\\Management\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Management.Application.Contracts.pdb",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\SharpSix\\BlazorPage\\Customer\\Management\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Management.Application.Contracts.pdb"
+    },
+    {
       "Identity": "C:\\SharpSix\\BlazorPage\\Customer\\Management\\Client\\obj\\Debug\\net6.0\\build-gz\\dO74Y7P6.gz",
       "SourceId": "Management.Client",
       "SourceType": "Computed",
@@ -7291,6 +7342,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\SharpSix\\BlazorPage\\Customer\\Management\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Numerics.Vectors.dll"
+    },
+    {
+      "Identity": "C:\\SharpSix\\BlazorPage\\Customer\\Management\\Client\\obj\\Debug\\net6.0\\build-gz\\VBOQtHXW.gz",
+      "SourceId": "Management.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\SharpSix\\BlazorPage\\Customer\\Management\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Management.Application.Contracts.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\SharpSix\\BlazorPage\\Customer\\Management\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Management.Application.Contracts.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\SharpSix\\BlazorPage\\Customer\\Management\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Management.Application.Contracts.dll"
     },
     {
       "Identity": "C:\\SharpSix\\BlazorPage\\Customer\\Management\\Client\\obj\\Debug\\net6.0\\build-gz\\vCnZqWzS.gz",

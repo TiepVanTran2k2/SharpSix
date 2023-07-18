@@ -10,5 +10,6 @@ namespace Management.Application.Contracts.Services
     public interface IPermissionService
     {
         Task<bool> CreateAsync(PermissionDto input);
+        Task<List<PermissionDto>> GetAllAsync();
     }
 }

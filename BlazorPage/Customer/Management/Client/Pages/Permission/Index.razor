@@ -1,0 +1,39 @@
+﻿@page "/permission"
+@using Management.Application.Contracts.Dtos.Permission;
+@inject HttpClient Http
+<h3>Index</h3>
+
+@code {
+    private PermissionDto[]? permission;
+    protected override async Task OnInitializedAsync()
+    {
+        permission = await Http.GetFromJsonAsync<PermissionDto[]>("api/permission/all");
+    }
+}
+
+<div>
+    <button>Create</button>
+</div>
+@if (permission == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+        </tr>
+    </thead>
+    <tbody>
+            @foreach (var permission in permission)
+        {
+        <tr>
+                    <td>@permission.Name</td>
+        </tr>
+        }
+    </tbody>
+</table>
+}
+

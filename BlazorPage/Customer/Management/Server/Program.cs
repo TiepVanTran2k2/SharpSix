@@ -1,3 +1,5 @@
+using Management.Application.Applications;
+using Management.Application.Contracts.Services;
 using Management.Domain.Entity.Permission;
 using Management.Domain.Entity.Role;
 using Management.Domain.Entity.User;
@@ -18,13 +20,17 @@ builder.Services.AddTransient(typeof(IRepositoryBase<>), typeof(RepositoryBase<>
 builder.Services.AddTransient<IUserRepository, UserRepository>();
 builder.Services.AddTransient<IPermissionRepository, PermissionRepository>();
 builder.Services.AddTransient<IRoleRepository, RoleRepository>();
+builder.Services.AddTransient<IPermissionService, PermissionService>();
+builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
-    app.UseWebAssemblyDebugging();    
+    app.UseWebAssemblyDebugging();
+    app.UseSwagger();
+    app.UseSwaggerUI();
 }
 else
 {

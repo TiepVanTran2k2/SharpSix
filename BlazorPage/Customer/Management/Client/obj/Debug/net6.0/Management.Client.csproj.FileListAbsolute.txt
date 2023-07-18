@@ -1854,3 +1854,11 @@ C:\SharpSix\BlazorPage\Customer\Management\Client\obj\Debug\net6.0\Management.Cl
 C:\SharpSix\BlazorPage\Customer\Management\Client\obj\Debug\net6.0\refint\Management.Client.dll
 C:\SharpSix\BlazorPage\Customer\Management\Client\obj\Debug\net6.0\Management.Client.pdb
 C:\SharpSix\BlazorPage\Customer\Management\Client\obj\Debug\net6.0\ref\Management.Client.dll
+C:\SharpSix\BlazorPage\Customer\Management\Client\bin\Debug\net6.0\wwwroot\_framework\Management.Application.Contracts.dll
+C:\SharpSix\BlazorPage\Customer\Management\Client\bin\Debug\net6.0\wwwroot\_framework\Management.Application.Contracts.pdb
+C:\SharpSix\BlazorPage\Customer\Management\Client\bin\Debug\net6.0\wwwroot\_framework\Management.Application.Contracts.pdb.gz
+C:\SharpSix\BlazorPage\Customer\Management\Client\bin\Debug\net6.0\wwwroot\_framework\Management.Application.Contracts.dll.gz
+C:\SharpSix\BlazorPage\Customer\Management\Client\bin\Debug\net6.0\Management.Application.Contracts.dll
+C:\SharpSix\BlazorPage\Customer\Management\Client\bin\Debug\net6.0\Management.Application.Contracts.pdb
+C:\SharpSix\BlazorPage\Customer\Management\Client\obj\Debug\net6.0\build-gz\VBOQtHXW.gz
+C:\SharpSix\BlazorPage\Customer\Management\Client\obj\Debug\net6.0\build-gz\dfnvX0rL.gz

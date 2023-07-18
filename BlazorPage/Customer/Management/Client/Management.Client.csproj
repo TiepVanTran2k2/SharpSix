@@ -23,6 +23,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\Management.Application.Contracts\Management.Application.Contracts.csproj" />
     <ProjectReference Include="..\Shared\Management.Domain.Shared.csproj" />
   </ItemGroup>
 

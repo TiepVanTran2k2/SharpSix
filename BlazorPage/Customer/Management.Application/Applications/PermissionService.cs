@@ -32,5 +32,12 @@ namespace Management.Application.Applications
             await _iPermissionRepository.InsertAsync(data);
             return true;
         }
+
+        public async Task<List<PermissionDto>> GetAllAsync()
+        {
+            var listPermission = await _iPermissionRepository.TolistAsync();
+            var result = _iMapper.Map<List<PermissionDto>>(listPermission);
+            return result;
+        }
     }
 }

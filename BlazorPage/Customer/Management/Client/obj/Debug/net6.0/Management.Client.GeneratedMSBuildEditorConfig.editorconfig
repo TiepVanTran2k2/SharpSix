@@ -32,6 +32,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/SharpSix/BlazorPage/Customer/Management/Client/Pages/Permission/Create.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGVybWlzc2lvblxDcmVhdGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/SharpSix/BlazorPage/Customer/Management/Client/Pages/Permission/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGVybWlzc2lvblxJbmRleC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/SharpSix/BlazorPage/Customer/Management/Client/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 

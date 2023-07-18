@@ -730,6 +730,7 @@
       },
       "Management.Client/1.0.0": {
         "dependencies": {
+          "Management.Application.Contracts": "1.0.0",
           "Management.Domain.Shared": "1.0.0",
           "Microsoft.AspNetCore.Components.WebAssembly": "6.0.20",
           "Microsoft.EntityFrameworkCore": "6.0.20",

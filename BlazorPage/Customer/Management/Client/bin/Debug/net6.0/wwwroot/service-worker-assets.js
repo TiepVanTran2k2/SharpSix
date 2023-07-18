@@ -957,19 +957,27 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
+      "hash": "sha256-Sk6q+1mCOHHB9eAiY0Q6for1PwUcH6krW2f8mEYhCaw=",
+      "url": "_framework\/Management.Application.Contracts.dll"
+    },
+    {
       "hash": "sha256-cIAVasJ2cYhbm0bcMOY8qBSivIsS1h3j4jBS+5fgCuc=",
       "url": "_framework\/Management.Domain.Shared.dll"
+    },
+    {
+      "hash": "sha256-cwtgnQpCXxNPkevbAR+COMcFn8NKQKKiIzNg3TgJUpY=",
+      "url": "_framework\/Management.Application.Contracts.pdb"
     },
     {
       "hash": "sha256-2hcbvX92Bi93Lwdt8r8rmS2ksNgef4wURV4G9HqZ08g=",
       "url": "_framework\/Management.Domain.Shared.pdb"
     },
     {
-      "hash": "sha256-QYRLitrYLyH677EoW2172k0nREkigaNPwvQicsZjXAY=",
+      "hash": "sha256-KI2QY\/5fgX2eW7itSXQ07KcSgPDzHWqH9NWNHJvPZ+k=",
       "url": "_framework\/Management.Client.dll"
     },
     {
-      "hash": "sha256-b1oY9GPCyJqdUFeL2rg3bUUKrLfVcQy6TAEiFYV36EQ=",
+      "hash": "sha256-2VQq13l3l9iJ0HhfVcjOHmD6a6ZpguObgxIvd4nARk0=",
       "url": "_framework\/Management.Client.pdb"
     },
     {
@@ -977,9 +985,9 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-p6XUGCjMHvH58jlvz1cKt7uaPu1YrmdbpUXrmWLffkA=",
+      "hash": "sha256-C6eZz8uFBaPflpJU\/flWlwOGVBSiQlujvOlynq1RG2g=",
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "fHIIx\/xQ"
+  "version": "bYqBna5Q"
 };
